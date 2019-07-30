@@ -1,0 +1,16 @@
+.list-container {
+    width: 500px;
+    height: 352px;
+    border: solid white 2px;
+    background: slateblue;
+  }
+  
+  .list-item-container {
+      width: 500px;
+      height: 70px;
+      border: solid white 1px;
+      border-top: none;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+  }
